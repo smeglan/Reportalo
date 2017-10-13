@@ -10,7 +10,7 @@ package View;
  * @author kenic
  */
 public class ServerMain {
-
+	int x;
     /**
      * @param args the command line arguments
      */
