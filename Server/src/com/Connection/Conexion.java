@@ -3,19 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package View;
+package com.Connection;
 
 /**
  *
  * @author kenic
  */
-public class ServerMain {
-	int x;
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Conexion {
+    
     
 }
